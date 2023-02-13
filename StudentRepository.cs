@@ -1,19 +1,43 @@
+using SolidPrinciples.Interfaces;
 namespace SolidPrinciples;
 
-public class StudentRepository
+internal class StudentRepository : IStudentRepository
 {
-    public bool Save()
+    public void AddStudent(Student student)
     {
-        Logger.Log("save");
-
-        return true;
+        Console.WriteLine("Add student");
     }
 
-    public bool Delete()
+    public void DeleteStudent(Student student)
     {
-        Logger.Log("Start Delete");
-        Logger.Log("End Delete");
+        Console.WriteLine("Delete student");
+    }
 
-        return true;
+    public void EditStudent(Student student)
+    {
+        Console.WriteLine("edit student");
+    }
+
+    public IList<Student> GetAllStudents()
+    {
+        return new List<Student>();
+    }
+
+    public IList<Student> GetStudents(Course course)
+    {
+        // Get student by course
+        return new List<Student>();
+    }
+
+    public bool Subscrible(Course course)
+    {
+        Console.WriteLine("Subscrible success");
+        return true; // Subscrible success
+    }
+
+    public bool Unsubcrible(Course course)
+    {
+        Console.WriteLine("Unsubscrible success");
+        return true; // Unsubcrible success
     }
 }
