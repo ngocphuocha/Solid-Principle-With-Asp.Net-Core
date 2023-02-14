@@ -1,0 +1,15 @@
+/Users/phuoctran/net7/SolidPrinciples/bin/Debug/net7.0/SolidPrinciples
+/Users/phuoctran/net7/SolidPrinciples/bin/Debug/net7.0/SolidPrinciples.deps.json
+/Users/phuoctran/net7/SolidPrinciples/bin/Debug/net7.0/SolidPrinciples.runtimeconfig.json
+/Users/phuoctran/net7/SolidPrinciples/bin/Debug/net7.0/SolidPrinciples.dll
+/Users/phuoctran/net7/SolidPrinciples/bin/Debug/net7.0/SolidPrinciples.pdb
+/Users/phuoctran/net7/SolidPrinciples/obj/Debug/net7.0/SolidPrinciples.csproj.AssemblyReference.cache
+/Users/phuoctran/net7/SolidPrinciples/obj/Debug/net7.0/SolidPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phuoctran/net7/SolidPrinciples/obj/Debug/net7.0/SolidPrinciples.AssemblyInfoInputs.cache
+/Users/phuoctran/net7/SolidPrinciples/obj/Debug/net7.0/SolidPrinciples.AssemblyInfo.cs
+/Users/phuoctran/net7/SolidPrinciples/obj/Debug/net7.0/SolidPrinciples.csproj.CoreCompileInputs.cache
+/Users/phuoctran/net7/SolidPrinciples/obj/Debug/net7.0/SolidPrinciples.dll
+/Users/phuoctran/net7/SolidPrinciples/obj/Debug/net7.0/refint/SolidPrinciples.dll
+/Users/phuoctran/net7/SolidPrinciples/obj/Debug/net7.0/SolidPrinciples.pdb
+/Users/phuoctran/net7/SolidPrinciples/obj/Debug/net7.0/SolidPrinciples.genruntimeconfig.cache
+/Users/phuoctran/net7/SolidPrinciples/obj/Debug/net7.0/ref/SolidPrinciples.dll
