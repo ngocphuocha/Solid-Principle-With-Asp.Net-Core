@@ -1,4 +1,7 @@
-﻿namespace SolidPrinciples;
+﻿using SolidPrinciples.Repository;
+using SolidPrinciples.Models;
+
+namespace SolidPrinciples;
 
 class Program
 {

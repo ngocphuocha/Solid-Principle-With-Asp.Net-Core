@@ -1,5 +1,7 @@
+using SolidPrinciples.Models;
 using SolidPrinciples.Interfaces;
-namespace SolidPrinciples;
+
+namespace SolidPrinciples.Repository;
 
 internal class StudentRepository : IStudentRepository
 {

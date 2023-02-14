@@ -1,3 +1,4 @@
+using SolidPrinciples.Models;
 namespace SolidPrinciples.Interfaces;
 internal interface IStudentRepository
 {
